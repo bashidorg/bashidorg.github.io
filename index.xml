@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bash.ID - Watch and Learn</title>
+    <link>https://bashidorg.github.io/</link>
+    <description>Recent content on Bash.ID - Watch and Learn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Jun 2018 06:48:34 +0700</lastBuildDate>
+    
+	<atom:link href="https://bashidorg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>https://bashidorg.github.io/blog/lorem-ipsum/</link>
+      <pubDate>Tue, 12 Jun 2018 06:48:34 +0700</pubDate>
+      
+      <guid>https://bashidorg.github.io/blog/lorem-ipsum/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://bashidorg.github.io/about/</link>
+      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
+      
+      <guid>https://bashidorg.github.io/about/</guid>
+      <description>Welcome to bashid.org Group for discussing scripting for bash, sh, zsh or any other shell in the GNU/Linux
+Share your shell script maybe for pentest &amp;amp; tips here and help other to work through scripting problem</description>
+    </item>
+    
+  </channel>
+</rss>
